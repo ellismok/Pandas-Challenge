@@ -1,6 +1,6 @@
 # Pandas Challenge - Heroes of Pymoli
 
-![Game Background](HeroesOfPymoli/Images/background.jpg)
+![Game Background](Images/background.jpg)
 
 Tasked with analyzing the data for their most recent fantasy game Heroes of Pymoli to generate a report that breaks down the game's purchasing data into meaningful insights.
 
